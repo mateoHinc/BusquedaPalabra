@@ -62,3 +62,18 @@ cd BusquedaPalabraAPI
 
 Una vez ejecutado el proyecto, se abrirá automáticamente Swagger UI:
 https://localhost:<puerto>/swagger/index.html
+
+Busca el endpoint:
+
+```http
+POST /contieneNombre
+```
+
+Envía un cuerpo como:
+
+```json
+{
+  "info": ["ATFVRA", "B4KHES", "5JENTY", "T6IRF3", "ELLJ54", "24JKRT"],
+  "nombre": "LINEA"
+}
+```
