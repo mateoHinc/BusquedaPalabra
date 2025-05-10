@@ -28,18 +28,14 @@ Una API REST construida en ASP.NET Core Web API que permite verificar si una pal
 
 ## ⚙️ Tecnologías utilizadas
 
-### ASP.NET Core Web API (.NET 7 o superior)
-
-### C#
-
-### Swagger para documentación automática
+- ASP.NET Core Web API (.NET 7 o superior)
+- C#
+- Swagger para documentación automática
 
 ---
 
 ## 🚀 Instalación y ejecución local
 
-### 🔧 Requisitos previos
-
-### .NET SDK 7.0 o Superior
-
-### Visual Studio 2022 o VS Code con extensión C#
+- 🔧 Requisitos previos
+- .NET SDK 7.0 o Superior
+- Visual Studio 2022 o VS Code con extensión C#
