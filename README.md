@@ -39,3 +39,26 @@ Una API REST construida en ASP.NET Core Web API que permite verificar si una pal
 - 🔧 Requisitos previos
 - .NET SDK 7.0 o Superior
 - Visual Studio 2022 o VS Code con extensión C#
+
+---
+
+## 📥 Clonar el repositorio
+
+```bash
+git clone https://github.com/tuusuario/BusquedaPalabraAPI.git
+cd BusquedaPalabraAPI
+```
+
+---
+
+## 🛠 Abrir en Visual Studio
+
+### 1. Abre BusquedaPalabraAPI.sln en Visual Studio.
+### 2. Presiona F5 para iniciar la API.
+
+---
+
+## Probar con Swagger
+
+Una vez ejecutado el proyecto, se abrirá automáticamente Swagger UI:
+https://localhost:<puerto>/swagger/index.html
